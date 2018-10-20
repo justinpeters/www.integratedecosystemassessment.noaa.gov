@@ -380,3 +380,7 @@ content: "" !important;
 
 
 
+.dialog-off-canvas-main-canvas {
+  max-width: 1600px;
+  margin: auto;
+}
