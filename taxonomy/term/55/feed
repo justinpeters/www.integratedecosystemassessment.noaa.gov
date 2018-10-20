@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://www.integratedecosystemassessment.noaa.gov/taxonomy/term/55">
+  <channel>
+    <title>Cold Pool</title>
+    <link>http://www.integratedecosystemassessment.noaa.gov/taxonomy/term/55</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>Cold pool</title>
+  <link>http://www.integratedecosystemassessment.noaa.gov/regions/northeast/components/cold-pool</link>
+  <description>&lt;span&gt;Cold pool&lt;/span&gt;
+&lt;span&gt;&lt;span lang="" about="http://www.integratedecosystemassessment.noaa.gov/user/46" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;espooner&lt;/span&gt;&lt;/span&gt;
+&lt;span&gt;Tue, 06/26/2018 - 13:32&lt;/span&gt;
+
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;&lt;div class="container"&gt;
+&lt;div class="row"&gt;
+&lt;div class="col-sm-12 text-center"&gt;
+&lt;h2&gt;Cold Pool&lt;/h2&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;&lt;div class="container"&gt;
+&lt;div class="easytab-container" id="easytab-container"&gt;
+&lt;div class="easytab-panel-container"&gt;
+&lt;div id="overview" style="background-color: white; color: black;"&gt;
+&lt;div class="row"&gt;
+&lt;div class="col-sm-12"&gt;
+&lt;h4&gt;Overview&lt;/h4&gt;
+ 
+
+&lt;div class="zoom"&gt;&lt;img alt="Climatological view of the Mid-Atlantic cold pool. " data-entity-type="file" data-entity-uuid="695daea3-43b1-42bb-9da1-735ede60ce75" height="624" id="popupImage" src="http://www.integratedecosystemassessment.noaa.gov/sites/default/files/inline-images/NE_cold_pool_1.jpg" style="float:right;" width="485" /&gt;&lt;/div&gt;
+
+&lt;p&gt;The Cold Pool is a key oceanographic feature in the Mid-Atlantic Bight, consisting of a band of cold near-bottom water extending between Cape Hatteras and southern Georges Bank. A remnant of colder winter waters, the Cold Pool exists between spring and fall, separated from the surface by a seasonal thermocline and surrounded by warmer waters in the along-shelf and cross-shelf directions&lt;sup&gt;1&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;p&gt;After formation, the cold bottom water that makes up the Cold Pool is advected southwest, slowly warming over the course of the summer. Ultimately, cooling of surface waters in the fall and wind-mixing leads to the dissolution and destratification of the feature.The Cold Pool serves as the southernmost habitat of some more northerly distributed species, including yellowtail flounder. Longer lasting and cooler Cold Pools have been associated with higher recruitment success of yellowtail flounder&lt;sup&gt;2&lt;/sup&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="accordion vertical"&gt;
+&lt;ul&gt;&lt;li&gt;&lt;!-- INCREMENT THE id="checkbox-#" AND label for="checkbox-#" BY 1 FOR EACH ACCORDIAN. --&gt;&lt;input id="checkbox-100" name="checkbox-accordion" type="checkbox" /&gt;&lt;label for="checkbox-100"&gt;References&lt;/label&gt;
+
+	&lt;div class="content"&gt;
+	&lt;div class="col-sm-12"&gt;
+	&lt;ol&gt;&lt;li&gt;1. Lentz SJ (2017) Seasonal warming of the Middle Atlantic Bight Cold Pool. J Geophys Res Ocean 122:941–954.&lt;/li&gt;
+		&lt;br /&gt;&lt;li&gt;2. Miller TJ, Hare JA, Alade LA (2016) A state-space approach to incorporating environmental effects on recruitment in an age-structured assessment model with an application to Southern New England yellowtail flounder. Can J Fish Aquat Sci  73(8): 1261-1270.&lt;/li&gt;
+	&lt;/ol&gt;&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;!--
+&lt;div class="row"&gt;
+&lt;div class="col-sm-8"&gt;
+&lt;p&gt;&lt;img alt="ne-gb-protected-species-overview.png" data-entity-type="file" data-entity-uuid="258ad05a-d0cc-47b1-9e8a-c5385eecc7aa" src="/sites/default/files/inline-images/ne-gb-protected-species-overview.png", class = "center" /&gt;&lt;/p&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+--&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="container"&gt;
+&lt;div class="row"&gt;
+&lt;div class="col-sm-4"&gt;
+&lt;h3 style="background-color:#0980a1; color:#FFF; padding:5px; text-align:center;"&gt;Indicator Data&lt;/h3&gt;
+
+&lt;p&gt;Link to relevant indicator data&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class="col-sm-4"&gt;
+&lt;h3 style="background-color:#0980a1; color:#FFF; padding:5px; text-align:center;"&gt;Analyses&lt;/h3&gt;
+
+&lt;p&gt;Analyses associated with the Mid-Atlantic cold pool include...&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class="col-sm-4"&gt;
+&lt;h3 style="background-color:#0980a1; color:#FFF; padding:5px; text-align:center;"&gt;Publications&lt;/h3&gt;
+
+&lt;p&gt;Go here for current publications associated with the Mid-Atlantic cold pool.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+      
+  &lt;div class="field field--name-field-northeast-components field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field--label"&gt;Northeast Components&lt;/div&gt;
+              &lt;div class="field--item"&gt;&lt;a href="http://www.integratedecosystemassessment.noaa.gov/taxonomy/term/55" hreflang="en"&gt;Cold Pool&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Tue, 26 Jun 2018 17:32:52 +0000</pubDate>
+    <dc:creator>espooner</dc:creator>
+    <guid isPermaLink="false">480 at http://www.integratedecosystemassessment.noaa.gov</guid>
+    </item>
+
+  </channel>
+</rss>

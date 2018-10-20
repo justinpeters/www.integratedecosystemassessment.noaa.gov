@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://www.integratedecosystemassessment.noaa.gov/taxonomy/term/7">
+  <channel>
+    <title>Georges Bank</title>
+    <link>http://www.integratedecosystemassessment.noaa.gov/taxonomy/term/7</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>Northeast - Georges Bank - Recreational Fisheries</title>
+  <link>http://www.integratedecosystemassessment.noaa.gov/regions/northeast/georges-bank-recreational-fisheries</link>
+  <description>&lt;span&gt;Northeast - Georges Bank - Recreational Fisheries&lt;/span&gt;
+&lt;span&gt;&lt;span lang="" about="http://www.integratedecosystemassessment.noaa.gov/user/7" typeof="schema:Person" property="schema:name" datatype="" content="alex.valderrama@noaa.gov" xml:lang=""&gt;alex.valderram…&lt;/span&gt;&lt;/span&gt;
+&lt;span&gt;Fri, 05/11/2018 - 11:20&lt;/span&gt;
+
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;&lt;!-- BEGIN CONTENT --&gt;
+&lt;div class="container"&gt;
+&lt;div class="row" style="margin-bottom:20px;"&gt;
+&lt;div class="col-sm-12"&gt;
+&lt;h2 align="center"&gt;Georges Bank - Recreational Fisheries&lt;/h2&gt;
+
+&lt;p&gt;Proin eget tortor risus. Curabitur aliquet quam id dui posuere blandit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Donec sollicitudin molestie malesuada.&lt;/p&gt;
+
+&lt;p&gt;Curabitur aliquet quam id dui posuere blandit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Donec rutrum congue leo eget malesuada.&lt;/p&gt;
+
+&lt;p&gt;Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Pellentesque in ipsum id orci porta dapibus. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem.&lt;/p&gt;
+
+&lt;p&gt;Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Nulla porttitor accumsan tincidunt. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Donec sollicitudin molestie malesuada. Nulla quis lorem ut libero malesuada feugiat.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- END CONTENT --&gt;
+
+&lt;hr /&gt;&lt;/div&gt;
+      
+  &lt;div class="field field--name-field-northeast-regions field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field--label"&gt;Northeast Regions&lt;/div&gt;
+          &lt;div class="field--items"&gt;
+              &lt;div class="field--item"&gt;&lt;a href="http://www.integratedecosystemassessment.noaa.gov/taxonomy/term/7" hreflang="en"&gt;Georges Bank&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+</description>
+  <pubDate>Fri, 11 May 2018 15:20:46 +0000</pubDate>
+    <dc:creator>alex.valderrama@noaa.gov</dc:creator>
+    <guid isPermaLink="false">415 at http://www.integratedecosystemassessment.noaa.gov</guid>
+    </item>
+<item>
+  <title>Northeast - Georges Bank - Commercial Fisheries</title>
+  <link>http://www.integratedecosystemassessment.noaa.gov/regions/northeast/georges-bank-commercial-fisheries</link>
+  <description>&lt;span&gt;Northeast - Georges Bank - Commercial Fisheries&lt;/span&gt;
+&lt;span&gt;&lt;span lang="" about="http://www.integratedecosystemassessment.noaa.gov/user/7" typeof="schema:Person" property="schema:name" datatype="" content="alex.valderrama@noaa.gov" xml:lang=""&gt;alex.valderram…&lt;/span&gt;&lt;/span&gt;
+&lt;span&gt;Fri, 05/11/2018 - 11:19&lt;/span&gt;
+
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;&lt;!-- BEGIN CONTENT --&gt;
+&lt;div class="container"&gt;
+&lt;div class="row" style="margin-bottom:20px;"&gt;
+&lt;div class="col-sm-12"&gt;
+&lt;h2 align="center"&gt;Georges Bank - Commercial Fisheries&lt;/h2&gt;
+
+&lt;p&gt;Proin eget tortor risus. Curabitur aliquet quam id dui posuere blandit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Donec sollicitudin molestie malesuada.&lt;/p&gt;
+
+&lt;p&gt;Curabitur aliquet quam id dui posuere blandit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Donec rutrum congue leo eget malesuada.&lt;/p&gt;
+
+&lt;p&gt;Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Pellentesque in ipsum id orci porta dapibus. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem.&lt;/p&gt;
+
+&lt;p&gt;Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Nulla porttitor accumsan tincidunt. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Donec sollicitudin molestie malesuada. Nulla quis lorem ut libero malesuada feugiat.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- END CONTENT --&gt;
+
+&lt;hr /&gt;&lt;/div&gt;
+      
+  &lt;div class="field field--name-field-northeast-regions field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field--label"&gt;Northeast Regions&lt;/div&gt;
+          &lt;div class="field--items"&gt;
+              &lt;div class="field--item"&gt;&lt;a href="http://www.integratedecosystemassessment.noaa.gov/taxonomy/term/7" hreflang="en"&gt;Georges Bank&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+</description>
+  <pubDate>Fri, 11 May 2018 15:19:06 +0000</pubDate>
+    <dc:creator>alex.valderrama@noaa.gov</dc:creator>
+    <guid isPermaLink="false">414 at http://www.integratedecosystemassessment.noaa.gov</guid>
+    </item>
+<item>
+  <title>Northeast - Georges Bank - Seafood Production</title>
+  <link>http://www.integratedecosystemassessment.noaa.gov/regions/northeast/georges-bank-seafood-production</link>
+  <description>&lt;span&gt;Northeast - Georges Bank - Seafood Production&lt;/span&gt;
+&lt;span&gt;&lt;span lang="" about="http://www.integratedecosystemassessment.noaa.gov/user/7" typeof="schema:Person" property="schema:name" datatype="" content="alex.valderrama@noaa.gov" xml:lang=""&gt;alex.valderram…&lt;/span&gt;&lt;/span&gt;
+&lt;span&gt;Fri, 05/11/2018 - 11:17&lt;/span&gt;
+
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;&lt;!-- BEGIN CONTENT --&gt;
+&lt;div class="container"&gt;
+&lt;div class="row" style="margin-bottom:20px;"&gt;
+&lt;div class="col-sm-12"&gt;
+&lt;h2 align="center"&gt;Georges Bank - Seafood Production&lt;/h2&gt;
+
+&lt;p&gt;Proin eget tortor risus. Curabitur aliquet quam id dui posuere blandit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Donec sollicitudin molestie malesuada.&lt;/p&gt;
+
+&lt;p&gt;Curabitur aliquet quam id dui posuere blandit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Donec rutrum congue leo eget malesuada.&lt;/p&gt;
+
+&lt;p&gt;Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Pellentesque in ipsum id orci porta dapibus. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem.&lt;/p&gt;
+
+&lt;p&gt;Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Nulla porttitor accumsan tincidunt. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Donec sollicitudin molestie malesuada. Nulla quis lorem ut libero malesuada feugiat.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- END CONTENT --&gt;
+
+&lt;hr /&gt;&lt;/div&gt;
+      
+  &lt;div class="field field--name-field-northeast-regions field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field--label"&gt;Northeast Regions&lt;/div&gt;
+          &lt;div class="field--items"&gt;
+              &lt;div class="field--item"&gt;&lt;a href="http://www.integratedecosystemassessment.noaa.gov/taxonomy/term/7" hreflang="en"&gt;Georges Bank&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+</description>
+  <pubDate>Fri, 11 May 2018 15:17:24 +0000</pubDate>
+    <dc:creator>alex.valderrama@noaa.gov</dc:creator>
+    <guid isPermaLink="false">413 at http://www.integratedecosystemassessment.noaa.gov</guid>
+    </item>
+<item>
+  <title>Northeast - Georges Bank - Bottom Dwellers</title>
+  <link>http://www.integratedecosystemassessment.noaa.gov/regions/northeast/georges-bank-bottom-dwellers</link>
+  <description>&lt;span&gt;Northeast - Georges Bank - Bottom Dwellers&lt;/span&gt;
+&lt;span&gt;&lt;span lang="" about="http://www.integratedecosystemassessment.noaa.gov/user/7" typeof="schema:Person" property="schema:name" datatype="" content="alex.valderrama@noaa.gov" xml:lang=""&gt;alex.valderram…&lt;/span&gt;&lt;/span&gt;
+&lt;span&gt;Fri, 05/11/2018 - 11:15&lt;/span&gt;
+
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;&lt;!-- BEGIN CONTENT --&gt;
+&lt;div class="container"&gt;
+&lt;div class="row" style="margin-bottom:20px;"&gt;
+&lt;div class="col-sm-12"&gt;
+&lt;h2 align="center"&gt;Georges Bank - Bottom Dwellers&lt;/h2&gt;
+
+&lt;p&gt;Proin eget tortor risus. Curabitur aliquet quam id dui posuere blandit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Donec sollicitudin molestie malesuada.&lt;/p&gt;
+
+&lt;p&gt;Curabitur aliquet quam id dui posuere blandit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Donec rutrum congue leo eget malesuada.&lt;/p&gt;
+
+&lt;p&gt;Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Pellentesque in ipsum id orci porta dapibus. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem.&lt;/p&gt;
+
+&lt;p&gt;Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Nulla porttitor accumsan tincidunt. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Donec sollicitudin molestie malesuada. Nulla quis lorem ut libero malesuada feugiat.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- END CONTENT --&gt;
+
+&lt;hr /&gt;&lt;/div&gt;
+      
+  &lt;div class="field field--name-field-northeast-regions field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field--label"&gt;Northeast Regions&lt;/div&gt;
+          &lt;div class="field--items"&gt;
+              &lt;div class="field--item"&gt;&lt;a href="http://www.integratedecosystemassessment.noaa.gov/taxonomy/term/7" hreflang="en"&gt;Georges Bank&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+</description>
+  <pubDate>Fri, 11 May 2018 15:15:34 +0000</pubDate>
+    <dc:creator>alex.valderrama@noaa.gov</dc:creator>
+    <guid isPermaLink="false">412 at http://www.integratedecosystemassessment.noaa.gov</guid>
+    </item>
+<item>
+  <title>Northeast - Georges Bank - Phytoplankton</title>
+  <link>http://www.integratedecosystemassessment.noaa.gov/regions/northeast/georges-bank-phytoplankton</link>
+  <description>&lt;span&gt;Northeast - Georges Bank - Phytoplankton&lt;/span&gt;
+&lt;span&gt;&lt;span lang="" about="http://www.integratedecosystemassessment.noaa.gov/user/7" typeof="schema:Person" property="schema:name" datatype="" content="alex.valderrama@noaa.gov" xml:lang=""&gt;alex.valderram…&lt;/span&gt;&lt;/span&gt;
+&lt;span&gt;Fri, 05/11/2018 - 11:13&lt;/span&gt;
+
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;&lt;!-- BEGIN CONTENT --&gt;
+&lt;div class="container"&gt;
+&lt;div class="row" style="margin-bottom:20px;"&gt;
+&lt;div class="col-sm-12"&gt;
+&lt;h2 align="center"&gt;Georges Bank - Phytoplankton&lt;/h2&gt;
+
+&lt;p&gt;Proin eget tortor risus. Curabitur aliquet quam id dui posuere blandit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Donec sollicitudin molestie malesuada.&lt;/p&gt;
+
+&lt;p&gt;Curabitur aliquet quam id dui posuere blandit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Donec rutrum congue leo eget malesuada.&lt;/p&gt;
+
+&lt;p&gt;Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Pellentesque in ipsum id orci porta dapibus. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem.&lt;/p&gt;
+
+&lt;p&gt;Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Nulla porttitor accumsan tincidunt. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Donec sollicitudin molestie malesuada. Nulla quis lorem ut libero malesuada feugiat.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- END CONTENT --&gt;
+
+&lt;hr /&gt;&lt;/div&gt;
+      
+  &lt;div class="field field--name-field-northeast-regions field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field--label"&gt;Northeast Regions&lt;/div&gt;
+          &lt;div class="field--items"&gt;
+              &lt;div class="field--item"&gt;&lt;a href="http://www.integratedecosystemassessment.noaa.gov/taxonomy/term/7" hreflang="en"&gt;Georges Bank&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+</description>
+  <pubDate>Fri, 11 May 2018 15:13:58 +0000</pubDate>
+    <dc:creator>alex.valderrama@noaa.gov</dc:creator>
+    <guid isPermaLink="false">411 at http://www.integratedecosystemassessment.noaa.gov</guid>
+    </item>
+<item>
+  <title>Northeast - Georges Bank - Zooplankton</title>
+  <link>http://www.integratedecosystemassessment.noaa.gov/regions/northeast/georges-bank-zooplankton</link>
+  <description>&lt;span&gt;Northeast - Georges Bank - Zooplankton&lt;/span&gt;
+&lt;span&gt;&lt;span lang="" about="http://www.integratedecosystemassessment.noaa.gov/user/7" typeof="schema:Person" property="schema:name" datatype="" content="alex.valderrama@noaa.gov" xml:lang=""&gt;alex.valderram…&lt;/span&gt;&lt;/span&gt;
+&lt;span&gt;Fri, 05/11/2018 - 11:12&lt;/span&gt;
+
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;&lt;!-- BEGIN CONTENT --&gt;
+&lt;div class="container"&gt;
+&lt;div class="row" style="margin-bottom:20px;"&gt;
+&lt;div class="col-sm-12"&gt;
+&lt;h2 align="center"&gt;Georges Bank - Zooplankton&lt;/h2&gt;
+
+&lt;p&gt;Proin eget tortor risus. Curabitur aliquet quam id dui posuere blandit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Donec sollicitudin molestie malesuada.&lt;/p&gt;
+
+&lt;p&gt;Curabitur aliquet quam id dui posuere blandit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Donec rutrum congue leo eget malesuada.&lt;/p&gt;
+
+&lt;p&gt;Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Pellentesque in ipsum id orci porta dapibus. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem.&lt;/p&gt;
+
+&lt;p&gt;Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Nulla porttitor accumsan tincidunt. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Donec sollicitudin molestie malesuada. Nulla quis lorem ut libero malesuada feugiat.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- END CONTENT --&gt;
+
+&lt;hr /&gt;&lt;/div&gt;
+      
+  &lt;div class="field field--name-field-northeast-regions field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field--label"&gt;Northeast Regions&lt;/div&gt;
+          &lt;div class="field--items"&gt;
+              &lt;div class="field--item"&gt;&lt;a href="http://www.integratedecosystemassessment.noaa.gov/taxonomy/term/7" hreflang="en"&gt;Georges Bank&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+</description>
+  <pubDate>Fri, 11 May 2018 15:12:14 +0000</pubDate>
+    <dc:creator>alex.valderrama@noaa.gov</dc:creator>
+    <guid isPermaLink="false">410 at http://www.integratedecosystemassessment.noaa.gov</guid>
+    </item>
+<item>
+  <title>Northeast - Georges Bank - Medium Pelagics</title>
+  <link>http://www.integratedecosystemassessment.noaa.gov/regions/northeast/georges-bank-medium-pelagics</link>
+  <description>&lt;span&gt;Northeast - Georges Bank - Medium Pelagics&lt;/span&gt;
+&lt;span&gt;&lt;span lang="" about="http://www.integratedecosystemassessment.noaa.gov/user/7" typeof="schema:Person" property="schema:name" datatype="" content="alex.valderrama@noaa.gov" xml:lang=""&gt;alex.valderram…&lt;/span&gt;&lt;/span&gt;
+&lt;span&gt;Fri, 05/11/2018 - 11:09&lt;/span&gt;
+
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;&lt;!-- BEGIN CONTENT --&gt;
+&lt;div class="container"&gt;
+&lt;div class="row" style="margin-bottom:20px;"&gt;
+&lt;div class="col-sm-12"&gt;
+&lt;h2 align="center"&gt;Georges Bank - Medium Pelagics&lt;/h2&gt;
+
+&lt;p&gt;Proin eget tortor risus. Curabitur aliquet quam id dui posuere blandit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Donec sollicitudin molestie malesuada.&lt;/p&gt;
+
+&lt;p&gt;Curabitur aliquet quam id dui posuere blandit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Donec rutrum congue leo eget malesuada.&lt;/p&gt;
+
+&lt;p&gt;Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Pellentesque in ipsum id orci porta dapibus. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem.&lt;/p&gt;
+
+&lt;p&gt;Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Nulla porttitor accumsan tincidunt. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Donec sollicitudin molestie malesuada. Nulla quis lorem ut libero malesuada feugiat.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- END CONTENT --&gt;
+
+&lt;hr /&gt;&lt;/div&gt;
+      
+  &lt;div class="field field--name-field-northeast-regions field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field--label"&gt;Northeast Regions&lt;/div&gt;
+          &lt;div class="field--items"&gt;
+              &lt;div class="field--item"&gt;&lt;a href="http://www.integratedecosystemassessment.noaa.gov/taxonomy/term/7" hreflang="en"&gt;Georges Bank&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+</description>
+  <pubDate>Fri, 11 May 2018 15:09:34 +0000</pubDate>
+    <dc:creator>alex.valderrama@noaa.gov</dc:creator>
+    <guid isPermaLink="false">409 at http://www.integratedecosystemassessment.noaa.gov</guid>
+    </item>
+<item>
+  <title>Northeast - Georges Bank - Fished Invertebrates</title>
+  <link>http://www.integratedecosystemassessment.noaa.gov/regions/northeast/georges-bank-fished-invertebrates</link>
+  <description>&lt;span&gt;Northeast - Georges Bank - Fished Invertebrates&lt;/span&gt;
+&lt;span&gt;&lt;span lang="" about="http://www.integratedecosystemassessment.noaa.gov/user/7" typeof="schema:Person" property="schema:name" datatype="" content="alex.valderrama@noaa.gov" xml:lang=""&gt;alex.valderram…&lt;/span&gt;&lt;/span&gt;
+&lt;span&gt;Fri, 05/11/2018 - 11:07&lt;/span&gt;
+
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;&lt;!-- BEGIN CONTENT --&gt;
+&lt;div class="container"&gt;
+&lt;div class="row" style="margin-bottom:20px;"&gt;
+&lt;div class="col-sm-12"&gt;
+&lt;h2 align="center"&gt;Georges Bank - Fished Invertebrates&lt;/h2&gt;
+
+&lt;p&gt;Proin eget tortor risus. Curabitur aliquet quam id dui posuere blandit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Donec sollicitudin molestie malesuada.&lt;/p&gt;
+
+&lt;p&gt;Curabitur aliquet quam id dui posuere blandit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Donec rutrum congue leo eget malesuada.&lt;/p&gt;
+
+&lt;p&gt;Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Pellentesque in ipsum id orci porta dapibus. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem.&lt;/p&gt;
+
+&lt;p&gt;Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Nulla porttitor accumsan tincidunt. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Donec sollicitudin molestie malesuada. Nulla quis lorem ut libero malesuada feugiat.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- END CONTENT --&gt;
+
+&lt;hr /&gt;&lt;/div&gt;
+      
+  &lt;div class="field field--name-field-northeast-regions field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field--label"&gt;Northeast Regions&lt;/div&gt;
+          &lt;div class="field--items"&gt;
+              &lt;div class="field--item"&gt;&lt;a href="http://www.integratedecosystemassessment.noaa.gov/taxonomy/term/7" hreflang="en"&gt;Georges Bank&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+</description>
+  <pubDate>Fri, 11 May 2018 15:07:03 +0000</pubDate>
+    <dc:creator>alex.valderrama@noaa.gov</dc:creator>
+    <guid isPermaLink="false">408 at http://www.integratedecosystemassessment.noaa.gov</guid>
+    </item>
+<item>
+  <title>Northeast - Georges Bank - Groundfish</title>
+  <link>http://www.integratedecosystemassessment.noaa.gov/regions/northeast/georges-bank-groundfish</link>
+  <description>&lt;span&gt;Northeast - Georges Bank - Groundfish&lt;/span&gt;
+&lt;span&gt;&lt;span lang="" about="http://www.integratedecosystemassessment.noaa.gov/user/7" typeof="schema:Person" property="schema:name" datatype="" content="alex.valderrama@noaa.gov" xml:lang=""&gt;alex.valderram…&lt;/span&gt;&lt;/span&gt;
+&lt;span&gt;Fri, 05/11/2018 - 11:04&lt;/span&gt;
+
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;&lt;!-- BEGIN CONTENT --&gt;
+&lt;div class="container"&gt;
+&lt;div class="row" style="margin-bottom:20px;"&gt;
+&lt;div class="col-sm-12"&gt;
+&lt;h2 align="center"&gt;Georges Bank - Groundfish&lt;/h2&gt;
+
+&lt;p&gt;Proin eget tortor risus. Curabitur aliquet quam id dui posuere blandit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Donec sollicitudin molestie malesuada.&lt;/p&gt;
+
+&lt;p&gt;Curabitur aliquet quam id dui posuere blandit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Donec rutrum congue leo eget malesuada.&lt;/p&gt;
+
+&lt;p&gt;Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Pellentesque in ipsum id orci porta dapibus. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem.&lt;/p&gt;
+
+&lt;p&gt;Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Nulla porttitor accumsan tincidunt. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Donec sollicitudin molestie malesuada. Nulla quis lorem ut libero malesuada feugiat.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- END CONTENT --&gt;
+
+&lt;hr /&gt;&lt;/div&gt;
+      
+  &lt;div class="field field--name-field-northeast-regions field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field--label"&gt;Northeast Regions&lt;/div&gt;
+          &lt;div class="field--items"&gt;
+              &lt;div class="field--item"&gt;&lt;a href="http://www.integratedecosystemassessment.noaa.gov/taxonomy/term/7" hreflang="en"&gt;Georges Bank&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+</description>
+  <pubDate>Fri, 11 May 2018 15:04:59 +0000</pubDate>
+    <dc:creator>alex.valderrama@noaa.gov</dc:creator>
+    <guid isPermaLink="false">407 at http://www.integratedecosystemassessment.noaa.gov</guid>
+    </item>
+<item>
+  <title>Northeast - Georges Bank - Forage Fish</title>
+  <link>http://www.integratedecosystemassessment.noaa.gov/regions/northeast/georges-bank-forage-fish</link>
+  <description>&lt;span&gt;Northeast - Georges Bank - Forage Fish&lt;/span&gt;
+&lt;span&gt;&lt;span lang="" about="http://www.integratedecosystemassessment.noaa.gov/user/7" typeof="schema:Person" property="schema:name" datatype="" content="alex.valderrama@noaa.gov" xml:lang=""&gt;alex.valderram…&lt;/span&gt;&lt;/span&gt;
+&lt;span&gt;Fri, 05/11/2018 - 11:02&lt;/span&gt;
+
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;&lt;!-- BEGIN CONTENT --&gt;
+&lt;div class="container"&gt;
+&lt;div class="row" style="margin-bottom:20px;"&gt;
+&lt;div class="col-sm-12"&gt;
+&lt;h2 align="center"&gt;Georges Bank - Forage Fish&lt;/h2&gt;
+
+&lt;p&gt;Proin eget tortor risus. Curabitur aliquet quam id dui posuere blandit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Donec sollicitudin molestie malesuada.&lt;/p&gt;
+
+&lt;p&gt;Curabitur aliquet quam id dui posuere blandit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Donec rutrum congue leo eget malesuada.&lt;/p&gt;
+
+&lt;p&gt;Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Pellentesque in ipsum id orci porta dapibus. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem.&lt;/p&gt;
+
+&lt;p&gt;Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Nulla porttitor accumsan tincidunt. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Donec sollicitudin molestie malesuada. Nulla quis lorem ut libero malesuada feugiat.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- END CONTENT --&gt;
+
+&lt;hr /&gt;&lt;/div&gt;
+      
+  &lt;div class="field field--name-field-northeast-regions field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field--label"&gt;Northeast Regions&lt;/div&gt;
+          &lt;div class="field--items"&gt;
+              &lt;div class="field--item"&gt;&lt;a href="http://www.integratedecosystemassessment.noaa.gov/taxonomy/term/7" hreflang="en"&gt;Georges Bank&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+</description>
+  <pubDate>Fri, 11 May 2018 15:02:53 +0000</pubDate>
+    <dc:creator>alex.valderrama@noaa.gov</dc:creator>
+    <guid isPermaLink="false">406 at http://www.integratedecosystemassessment.noaa.gov</guid>
+    </item>
+
+  </channel>
+</rss>
